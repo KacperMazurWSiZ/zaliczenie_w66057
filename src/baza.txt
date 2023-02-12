@@ -1,0 +1,10 @@
+stacjonarny;2000;4;320;2600
+laptop;1800;3;150;14.1;1700
+stacjonarny;2600;8;500;3000
+stacjonarny;2000;3;250;1800
+laptop;2000;4;320;15.2;2400
+laptop;2000;3;250;15.3;2000
+stacjonarny;2600;4;320;2300
+stacjonarny;2800;4;500;3100
+stacjonarny;2800;4;320;2800
+laptop;1600;1;120;15.3;1500
